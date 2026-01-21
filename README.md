@@ -17,7 +17,7 @@ QGIS · ArcPro · SNAP · GEE · Matlab · Python
 ---
 
 ### Published article
-**Mapping immature rubber plantations & replanting year using spectral indices**  
+**Mapping immature rubber plantations and year of replanting using Sentinel 2 based spectral indices and Google Earth Engine**  
 https://doi.org/10.1080/2150704X.2025.2576885
 
 
