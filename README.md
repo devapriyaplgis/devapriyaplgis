@@ -1,17 +1,17 @@
-## Hi, I'm Devapriya 👋
+## Hi, I'm Devapriya 
 
 **GIS & Remote sensing analyst**  
 
 ---
 
-### 🔍 Focus areas
+### Focus areas
 - SAR-based damage analysis  
 - Vegetation time-series monitoring  
 - Climate vulnerability assessment  
 
 ---
 
-### 🛠️ Tools
+### Tools
 QGIS · ArcPro · SNAP · GEE · Matlab · Python
 
 ---
